@@ -1,6 +1,6 @@
 #!/bin/bash
 
-input_file=/media/egor/560ED1500ED129AF/qqqwwqeewqweeee/wwqeeweee/input.txt
+input_file=input.txt
 output_file=fake_output
 
 echo "-Запущен тест Аргументов-"
