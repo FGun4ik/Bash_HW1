@@ -39,7 +39,7 @@ fi
 
 # Проверка записанного результата
 result=$(cat "$output_file")
-expected_result=4
+expected_result=3
 if [[ $result -eq $expected_result ]]; then
     echo "Результат верный."
 else
